@@ -1,0 +1,2 @@
+# egalcho
+collage management system
